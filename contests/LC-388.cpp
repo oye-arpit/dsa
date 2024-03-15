@@ -28,7 +28,7 @@ public:
 };
 
 class Solution {
-	const int INF = INT_MAX;
+    const int INF = INT_MAX;
 public:
     vector<string> shortestSubstrings(vector<string>& arr) {
     	int n = arr.size();
